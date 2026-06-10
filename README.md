@@ -1,16 +1,20 @@
 📦 Supply Chain RAG Chatbot (Flowise)
+
 🌐 Public Chatbot URL
 Live Demo:
 👉 https://cloud.flowiseai.com/canvas/394a510e-9f42-43e9-a7ba-993ec9e8aebf
+
 🤖 LLM & Embeddings Used
 🔹 LLM
 Model: llama-3.1-8b-instant (Flowise node)
 Provider: Groq
 Purpose: Answer generation based on retrieved supplier data
+
 🔹 Embeddings Model
 Model: sentence-transformers/all-MiniLM-L6-v2
 Provider: Huggingface
 Purpose: Convert supplier CSV/text into vector representations for similarity search
+
 🧩 Chunking Strategies Tried
 ✅ Chunk Config 1: No Splitting (Full Row / Document)
 Strategy: Entire CSV row treated as a single chunk
@@ -33,7 +37,9 @@ Result:
 ✔ Improved Q&A accuracy
 ✔ Works well for supplier performance queries
 ❌ Slight duplication in overlapping chunks
-❓ Q&A Evaluation (Verbatim Answers)
+
+
+❓ Q&A Evaluation 
 Q1
 
 Question: Which Tier-3 suppliers have an active disruption flag, and what response level applies per policy?
