@@ -1,4 +1,6 @@
+SCM ASSISTANT BOT
 
+Public Chatbot URL:  https://cloud.flowiseai.com/canvas/394a510e-9f42-43e9-a7ba-993ec9e8aebf
 
 <img width="662" height="521" alt="Screenshot 2026-06-10 171925" src="https://github.com/user-attachments/assets/bebb2546-d529-4862-9bc8-1158b9d5779d" />
 
