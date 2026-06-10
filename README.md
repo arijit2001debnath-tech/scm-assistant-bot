@@ -1,10 +1,8 @@
-📦 Supply Chain RAG Chatbot (Flowise)
+<img width="1049" height="333" alt="Screenshot 2026-06-10 172006" src="https://github.com/user-attachments/assets/e673bcc4-0325-4cda-ab9f-8b1e12ca9ac0" />
+<img width="662" height="521" alt="Screenshot 2026-06-10 171925" src="https://github.com/user-attachments/assets/bebb2546-d529-4862-9bc8-1158b9d5779d" />
+<img width="684" height="343" alt="Screenshot 2026-06-09 211539" src="https://github.com/user-attachments/assets/6d1b5d72-3846-48af-b255-d3ddd108415f" />
 
-🌐 Public Chatbot URL
-Live Demo:
-👉 https://cloud.flowiseai.com/canvas/394a510e-9f42-43e9-a7ba-993ec9e8aebf
 
-🤖 LLM & Embeddings Used
 🔹 LLM
 Model: llama-3.1-8b-instant (Flowise node)
 Provider: Groq
